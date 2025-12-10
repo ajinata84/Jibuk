@@ -1,4 +1,4 @@
-# Logbook Automation Script
+# Djie's Binus Logbook Importer
 This Python script automates the process of uploading monthly activity entries from an Excel file (`monthly_activity.xlsx`) to the Binus Activity Enrichment logbook system. It uses HTTP requests to interact with the API, authenticating via cookies exported from your browser session.
 The script fetches available months, loads data from the Excel sheet, processes each row (date, activity, description, clock-in/out times), checks if an entry exists for each date, and either creates a new entry or updates an existing one.
 ## Prerequisites
