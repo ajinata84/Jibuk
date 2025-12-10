@@ -62,7 +62,7 @@ The script fetches available months, loads data from the Excel sheet, processes 
 ## Exporting Cookies (`cookies.json`)
 To authenticate requests, export your browser cookies from the Binus website after logging in.
 1. Install the Cookie Editor extension:
-   - For Chrome: [Cookie Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en)
+   - For Chrome (or chromium based browser): [Cookie Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en)
    - For Firefox: [Cookie Editor](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/)
 2. Log in to https://activity-enrichment.apps.binus.ac.id/LearningPlan/StudentIndex# **(before that, login to https://enrichment.apps.binus.ac.id/ , select your Running period, and then go to activity enrichment apps)**
 3. Open the Cookie Editor:
