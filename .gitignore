@@ -215,5 +215,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-./cookies.json
-./monthly_activity.xlsx
+cookies.json
+monthly_activity.xlsx
