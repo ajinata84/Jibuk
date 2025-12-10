@@ -68,7 +68,7 @@ To authenticate requests, export your browser cookies from the Binus website aft
 3. Open the Cookie Editor:
    - Click the extension icon.
    - Navigate to the exported cookies tab (or equivalent).
-![Cookie Editor Screenshot](cookie.png)
+![Cookie Editor Screenshot](./images/cookie.png)
 4. Export the cookies as JSON and save/paste them into a file named `cookies.json` in the same directory as the script.
    - The file should be a JSON array of cookie objects, e.g.:
      ```
